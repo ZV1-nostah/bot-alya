@@ -2,21 +2,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285815975368']
-global.premium = ['6285815975368']
-global.ownername = 'Liya'
-global.botname = 'AliyaBot'
-global.packname = '© by AliyaBot'
+global.owner = ['6285713627689','6281229393997']
+global.premium = ['6285713627689']
+global.ownername = 'Farisa'
+global.botname = 'frisaBot'
+global.packname = '© by Zex'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
 global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
 global.limitawal = '100'
-global.author = '@alya.xzy'
+global.author = '@Frisa.'
 global.sessionName = 'polo'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = 'terserah'
 global.mess = {
-    success: 'Berhasil',
+    success: 'Berhasil mek',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
